@@ -38,6 +38,6 @@ The trained model achieved an accuracy of 98.3% on the test set, demonstrating t
 
 ## Conclusion
 
-This project showcases the potential of artificial intelligence to automate and improve many aspects of our daily lives, and demonstrates how neural networks can be used to recognize handwritten digits with a high degree of accuracy.
+This project showcases the potential of artificial intelligence to automate and improve many aspects of our daily lives, and demonstrates how neural networks can be used to recognize handwritten digits with a high degree of accuracy. 
 
  
