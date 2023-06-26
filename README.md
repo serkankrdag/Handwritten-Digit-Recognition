@@ -1,4 +1,4 @@
-# Handwritten Digit Recognition
+# Handwritten Digit Recognition 
 
 This project uses a neural network to recognize handwritten digits from the MNIST dataset. The neural network is trained on a set of labeled images of handwritten digits and is then used to predict the digit shown in a new image.
 
